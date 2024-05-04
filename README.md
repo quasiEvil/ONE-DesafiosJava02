@@ -17,5 +17,5 @@ Este repositório contém a resolução de uma série de desafios em Java, nos q
 6. **Fatorial:** Solicita ao usuário um número e calcula o fatorial desse número.
 
 ## Saídas no terminal
-<img width="1552" alt="Captura de Tela 2024-05-03 às 22 03 39" src="https://github.com/quasiEvil/ONE-DesafiosJava02/assets/140989367/3940e7fe-1b16-4f02-8817-ee7812bd6ca6">
-<img width="1552" alt="Captura de Tela 2024-05-03 às 22 03 53" src="https://github.com/quasiEvil/ONE-DesafiosJava02/assets/140989367/6003f074-fc25-46c7-8789-8345bb82ca4e">
+<img width="1552" alt="Captura de Tela 2024-05-03 às 22 03 39" src="https://github.com/quasiEvil/ONE-DesafiosJava02/assets/140989367/f9366562-acf4-4ed4-85d8-7d13dc98ff71">
+<img width="1552" alt="Captura de Tela 2024-05-03 às 22 03 53" src="https://github.com/quasiEvil/ONE-DesafiosJava02/assets/140989367/6d047aed-8896-4df3-99c1-9195e2142c5c">
