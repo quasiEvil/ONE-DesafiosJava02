@@ -6,7 +6,7 @@
 # Fase 3 - Especialização Backend com Java e Spring
 
 ## Desafios #2
-Este repositório contém a resolução de uma série de desafios em Java, nos quais são abordados conceitos básicos da linguagem e lógica de programação. Todos os desafios foram resolvidos em um único arquivo Java, `/src/DesafiosJava02.java`, de forma sequencial. O código é estruturado de forma que cada desafio seja claramente identificado.
+Este repositório contém a resolução de uma série de desafios em Java, nos quais são abordados conceitos básicos da linguagem e lógica de programação. Todos os desafios foram resolvidos em um único arquivo, `/src/DesafiosJava02.java`, de forma sequencial.
 
 ## Desafios Abordados
 1. **Número Positivo ou Negativo:** Solicita ao usuário um número e determina se é positivo ou negativo.
